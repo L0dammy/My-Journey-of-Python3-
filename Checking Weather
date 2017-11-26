@@ -1,0 +1,3 @@
+# My-Journey-of-Python3-
+import requests
+r=requests.get(url='HTTP://www.weather.com.cn/weather/101280101.shtml')
